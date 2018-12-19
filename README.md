@@ -1,5 +1,6 @@
 # GHS
 Gong CHeng Shi Lei Tai
 
-Bao kuo:Lei tai:
-        Shang Jin Ren Wu:
+Bao kuo:</br>
+Lei tai</br>
+Shang Jin Ren Wu
