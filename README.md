@@ -1,6 +1,6 @@
-# GHS
-Gong CHeng Shi Lei Tai
+# 攻城师 GHS
+工程师的擂台
 
-Zhu Yao Bao kuo:</br>
-Lei tai</br>
-Shang Jin Ren Wu
+主要包括:</br>
+擂台</br>
+赏金任务
